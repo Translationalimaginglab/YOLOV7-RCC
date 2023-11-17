@@ -1,0 +1,12 @@
+# COCO 2017 dataset http://cocodataset.org
+
+
+train: /data/AMPrj/Fiona detection project/WholeData.txt  # 118287 images
+val: /data/AMPrj/Fiona detection project/WholeData.txt  # 5000 images
+
+
+# number of classes
+nc: 5
+
+# class names
+names: ['airplane', 'Liver', 'Instrument', 'Spleen', 'Port' ]

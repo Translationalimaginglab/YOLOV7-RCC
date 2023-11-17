@@ -1,0 +1,17 @@
+2022-09-19 14:04:25,288 INFO    StreamThr :5804 [internal.py:wandb_internal():90] W&B internal server running at pid: 5804, started at: 2022-09-19 14:04:25.287953
+2022-09-19 14:04:25,292 DEBUG   HandlerThread:5804 [handler.py:handle_request():141] handle_request: status
+2022-09-19 14:04:25,296 DEBUG   SenderThread:5804 [sender.py:send_request():316] send_request: status
+2022-09-19 14:04:25,298 INFO    WriterThread:5804 [datastore.py:open_for_write():75] open: C:\Users\yazdianp\Desktop\yolov7-main\wandb\offline-run-20220919_140425-11zg1jbr\run-11zg1jbr.wandb
+2022-09-19 14:04:25,299 DEBUG   HandlerThread:5804 [handler.py:handle_request():141] handle_request: run_start
+2022-09-19 14:04:25,312 DEBUG   HandlerThread:5804 [meta.py:__init__():35] meta init
+2022-09-19 14:04:25,317 DEBUG   HandlerThread:5804 [meta.py:__init__():50] meta init done
+2022-09-19 14:04:25,317 DEBUG   HandlerThread:5804 [meta.py:probe():216] probe
+2022-09-19 14:04:25,338 DEBUG   HandlerThread:5804 [git.py:repo():40] git repository is invalid
+2022-09-19 14:04:25,338 DEBUG   HandlerThread:5804 [meta.py:_save_pip():54] save pip
+2022-09-19 14:04:25,340 DEBUG   HandlerThread:5804 [meta.py:_save_pip():68] save pip done
+2022-09-19 14:04:25,340 DEBUG   HandlerThread:5804 [meta.py:_save_conda():75] save conda
+2022-09-19 14:04:28,997 DEBUG   HandlerThread:5804 [meta.py:_save_conda():85] save conda done
+2022-09-19 14:04:28,998 DEBUG   HandlerThread:5804 [meta.py:probe():254] probe done
+2022-09-19 14:08:02,393 DEBUG   HandlerThread:5804 [handler.py:handle_request():141] handle_request: partial_history
+2022-09-19 14:11:52,805 DEBUG   HandlerThread:5804 [handler.py:handle_request():141] handle_request: partial_history
+2022-09-19 14:15:26,414 DEBUG   HandlerThread:5804 [handler.py:handle_request():141] handle_request: partial_history

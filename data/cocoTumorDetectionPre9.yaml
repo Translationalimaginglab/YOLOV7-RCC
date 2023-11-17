@@ -1,0 +1,14 @@
+#!/usr/bin/bash
+
+train: /data/AMPrj/Yazdianp/YOLOCutPreDTumor/Train_split_9.txt 
+val: /data/AMPrj/Yazdianp/YOLOCutPreDTumor/Test_split_9.txt 
+
+
+# number of classes
+nc: 1
+
+# class names
+names: [ 'Tumor']
+
+
+

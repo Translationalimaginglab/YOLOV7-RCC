@@ -1,0 +1,13 @@
+#!/usr/bin/bash
+
+train: /data/AMPrj/Yazdianp/YOLOCutDelDTumorCharectrization/Train_split_1.txt 
+val: /data/AMPrj/Yazdianp/YOLOCutDelDTumorCharectrization/Test_split_1.txt 
+
+# number of classes
+nc: 7
+
+# class names
+names: ['AML', 'Choromo', 'CCRC', 'HLRCC', 'Hybrid', 'Oncocytoma', 'Papillary' ]
+
+
+

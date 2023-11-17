@@ -1,0 +1,14 @@
+#!/usr/bin/bash
+
+train: /gpfs/gsfs10/users/AMPrj/Yazdianp/YOLOALLDel/complete.txt
+val: /gpfs/gsfs10/users/AMPrj/Yazdianp/YOLOALLDel/complete.txt
+
+
+# number of classes
+nc: 1
+
+# class names
+names: [ 'Tumor']
+
+
+

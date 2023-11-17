@@ -1,0 +1,13 @@
+#!/usr/bin/bash
+
+train: /data/AMPrj/kits19/YOLODetection/Train_split_3.txt 
+val: /data/AMPrj/kits19/YOLODetection/Test_split_3.txt 
+
+# number of classes
+nc: 1
+
+# class names
+names: ['Tumor' ]
+
+
+

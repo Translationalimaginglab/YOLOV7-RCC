@@ -1,0 +1,14 @@
+#!/usr/bin/bash
+
+train: /data/AMPrj/Yazdianp/YOLOALLDel/Train_split_10.txt  # 118287 images
+val: /data/AMPrj/Yazdianp/YOLOALLDel/Test_split_10.txt # 5000 images
+
+
+# number of classes
+nc: 1
+
+# class names
+names: [ 'Kidney']
+
+
+
